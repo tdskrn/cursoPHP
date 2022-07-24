@@ -1,5 +1,15 @@
 <div class="conteudo">
     <nav class="modulos">
+        <div class="modulo azul">
+            <h3>Modulo 13 - Recursos API</h3>
+            <ul>
+                <li>
+                <a href="exercicio.php?dir=api&file=datas_01">
+                        Datas #01
+                    </a>
+                </li>
+            </ul>
+        </div>
         <div class="modulo verde">
             <h3>Modulo 12 - Sessão e Cookies</h3>
             <ul>
