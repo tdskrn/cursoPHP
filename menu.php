@@ -4,8 +4,38 @@
             <h3>Modulo 13 - Recursos API</h3>
             <ul>
                 <li>
-                <a href="exercicio.php?dir=api&file=datas_01">
+                    <a href="exercicio.php?dir=api&file=datas_01">
                         Datas #01
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=api&file=datas_02">
+                        Datas #02
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=api&file=escrevendo_arquivos">
+                        Escrevendo Arquivos
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=api&file=ler_arquivo">
+                        Lendo Arquivos
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=api&file=upload">
+                        Upload
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=api&file=download">
+                        Download
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=api&file=desafio_imagens">
+                        Desafio Imagens
                     </a>
                 </li>
             </ul>
