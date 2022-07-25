@@ -44,6 +44,31 @@
                         Alterar
                     </a>
                 </li>
+                <li>
+                    <a href="exercicio.php?dir=db&file=conexao_pdo">
+                        Conexão PDO
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=db&file=inserir_pdo">
+                        Inserir PDO
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=db&file=consulta_pdo">
+                        Consultar PDO
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=db&file=excluir_pdo">
+                        Excluir PDO
+                    </a>
+                </li>
+                <li>
+                    <a href="exercicio.php?dir=db&file=alterar_pdo">
+                        Alterar PDO
+                    </a>
+                </li>
             </ul>
         </div>
         <div class="modulo  roxo">
